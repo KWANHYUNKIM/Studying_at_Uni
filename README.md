@@ -9,8 +9,8 @@ $I am studying at QUT, It is summaries of what I stuied at QUT.
  
  * [ITD-1](./ITD-1)
    * [IT Systems Design.ext](./ITD-1/IT Systems Design.ext)
-   * [Building IT Systems.ext](./ITD-1/file22.ext)
-   * [Database Management.ext](./ITD-1/file23.ext)
+   * [Building IT Systems.ext](./ITD-1/Building IT Systems.ext)
+   * [Database Management.ext](./ITD-1/Database Management.ext)
    * [Introduction to Computer Systems.ext](./ITD-1/Introduction to Computer Systems.ext)
    * [Programming Principles.ext](./ITD-1/Programming Principles.ext)
    * [Modelling Technology for Information Systems](./ITD-1/Modelling Technology for Information Systems.ext)
